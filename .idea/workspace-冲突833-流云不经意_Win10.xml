@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baeafa13-d34d-4cf9-b04e-54237d4b3542" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJr8N5uFxskAfyDZzTp4peY19b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bowling" />
+    <property name="project.structure.last.edited" value="问题" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="应用程序.Mainfunc">
+    <configuration name="ControlExcMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excel.ControlExcMain" />
+      <module name="createWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.Demo1" />
+      <module name="createWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExportExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excel.achieve.ExportExcel" />
+      <module name="createWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excel.achieve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainfunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.Mainfunc" />
+      <module name="createWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpToStair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.UpToStair" />
+      <module name="createWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Mainfunc" />
+        <item itemvalue="应用程序.Demo1" />
+        <item itemvalue="应用程序.ExportExcel" />
+        <item itemvalue="应用程序.ControlExcMain" />
+        <item itemvalue="应用程序.UpToStair" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baeafa13-d34d-4cf9-b04e-54237d4b3542" name="默认的" comment="" />
+      <created>1597843375021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597843375021</updated>
+      <workItem from="1597843378863" duration="3650000" />
+      <workItem from="1597891926388" duration="1218000" />
+      <workItem from="1598234639223" duration="60000" />
+      <workItem from="1598355946040" duration="6376000" />
+      <workItem from="1598448518442" duration="4356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JunitOrder - 2020.08.20 at 10h 56m 00s.xml">
+      <configuration name="JunitOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitOrder - 2020.08.20 at 10h 57m 12s.xml">
+      <configuration name="JunitOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitOrder - 2020.08.20 at 10h 57m 38s.xml">
+      <configuration name="JunitOrder" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1598452532668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598452532668" />
+    <state x="0" y="0" key="#项目结构" timestamp="1597843832005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1597843832005" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1598452908959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598452908959" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1598452908956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598452908956" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1598452908955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598452908955" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1598452908956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598452908956" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1598452908967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598452908967" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1598452908964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598452908964" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1598452908961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598452908961" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1598452908967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598452908967" />
+    <state x="189" y="92" key="Maven.ArtifactSearchDialog" timestamp="1597843618724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="189" y="92" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1597843618724" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598450076986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598450076986" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/MaxSubArr.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/Fib.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/UpToStair.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
